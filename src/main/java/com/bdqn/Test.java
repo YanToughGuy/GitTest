@@ -7,5 +7,6 @@ public class Test {
         System.out.println("master git2");
         System.out.println("master git3");
         System.out.println("master git4");
+        System.out.println("dev git1");
     }
 }
