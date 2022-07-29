@@ -10,6 +10,7 @@ public class Test {
         System.out.println("dev git1");
         System.out.println("push git1");
         System.out.println("push SSH git1");
+        System.out.println("pull SSH git1 localhost");
         System.out.println("pull SSH git1");
     }
 }
